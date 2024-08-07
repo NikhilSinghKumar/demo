@@ -1,10 +1,11 @@
-steps for git repo:
+steps for git repo Local:
 1. git init (for initialization)
 2. git add filename
 3. git commit -m "message"
-4. git staus (to see commits of file)
+4. git staus (to see commit of file)
 5. git log (see number of commits)
 6. git diff filename (to see any changes happened accidently)
 7. git checkout filename (to recover previous file)
+8. git remote add origin repoURL (adding remote repo)
 
 I have completed chapter 1.
