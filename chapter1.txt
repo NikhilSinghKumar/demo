@@ -10,4 +10,7 @@ steps for git repo remote:
 8. git remote add origin repoURL (adding remote repo)*
 9. git push -u oririn branchName* (master / main)
 
+to remove cached/ or wrong commit
+10. git rm --cached -r filename (or . for all)
+
 I have completed chapter 1.
