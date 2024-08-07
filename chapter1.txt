@@ -12,5 +12,10 @@ steps for git repo remote:
 
 to remove cached/ or wrong commit
 10. git rm --cached -r filename (or . for all)
+11. make a file <cd .gitignore> to ignore files/scretes
+12. git clone https-link (clone git)
+13. git branch branch-name (create branch)
+13. git checkout branch-name (switch branch to)
+
 
 I have completed chapter 1.
