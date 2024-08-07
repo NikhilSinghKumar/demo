@@ -7,6 +7,6 @@ steps for git repo Local:
 6. git diff filename (to see any changes happened accidently)
 7. git checkout filename (to recover previous file)
 8. git remote add origin repoURL (adding remote repo)*
-9. git push -u oririn branchName (master / main)
+9. git push -u oririn branchName* (master / main)
 
 I have completed chapter 1.
