@@ -16,6 +16,11 @@ to remove cached/ or wrong commit
 12. git clone https-link (clone git)
 13. git branch branch-name (create branch)
 13. git checkout branch-name (switch branch to)
+14. git merge branch-name (merge branch-name to other branch in operation )
+
+fork and pull request
+15. fork is used by a user to copy other user's code in own repo and if any changes done, pull request is accepted by the
+other user to include in its original code.
 
 
 I have completed chapter 1.
